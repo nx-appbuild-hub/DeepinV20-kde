@@ -28,3 +28,5 @@ GNU GPL v3
 
 
 
+
+![example workflow](https://github.com/nx-appbuild-hub/DeepinV20-kde//actions/workflows/makefile.yml/badge.svg)
